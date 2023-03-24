@@ -28,11 +28,11 @@ Overall, nine mock flow loop-generated datasets were collected to quantify three
 
 •	The database contains 9 datasets that correspond to 3 hemodynamic states (i.e., Normovolemic, Cardiogenic shock, and Hyperdynamic states) × 3 types of tests for each state as follows:
 
-    - 	CO resolution dataset: ~1 L/min mean central flow (i.e. CO) change in both directions from baseline in incremental steps (Data is recorded for 60 seconds in each step)
+    - 	CO resolution dataset (COres): ~1 L/min mean central flow (i.e. CO) change in both directions from baseline in incremental steps (Data is recorded for 60 seconds in each step)
 
-    - 	CO response time dataset: A rapid ~10% decrease in CO from baseline followed by an increase of ~10% back to baseline (Data is recorded for 360 seconds)
+    - 	CO response time dataset (COrt): A rapid ~10% decrease in CO from baseline followed by an increase of ~10% back to baseline (Data is recorded for 360 seconds)
 
-    - 	SVV resolution dataset: SVV change in both directions in incremental steps at two different respiration rates (20 times/min and 12 times/min) (Data is recorded for 60 seconds in each step)
+    - 	SVV resolution dataset (SVVres): SVV change in both directions in incremental steps at two different respiration rates (20 times/min and 12 times/min) (Data is recorded for 60 seconds in each step)
 
 Accordingly: 
 
