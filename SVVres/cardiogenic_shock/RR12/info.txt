@@ -1,0 +1,12 @@
+SVV resolution test:
+
+MCL generated dataset for cardiogenic shock condition.
+
+Imposed respiration rate on the flow waveform is : 12 times/min
+
+Each step correspond to a different level of SVV(%)
+
+1st column: time (s)
+2nd column: central flow (mL/sec)
+3rd column: central pressure (mmHg)
+4th column: peripheral pressure (mmHg)

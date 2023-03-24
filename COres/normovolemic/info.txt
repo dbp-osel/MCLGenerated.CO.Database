@@ -1,0 +1,10 @@
+Cardiac outout resolution test:
+
+MCL generated dataset for Normovolemic condition.
+
+Each step correspond to a different flow rate.
+
+1st column: time (s)
+2nd column: central flow (mL/sec)
+3rd column: central pressure (mmHg)
+4th column: peripheral pressure (mmHg)
