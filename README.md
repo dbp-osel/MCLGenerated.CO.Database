@@ -4,6 +4,7 @@
 **Mock Circulatory Loop Generated Database for Dynamic Characterization of Pressure-based Cardiac Output Monitoring Systems**
 
 *Masoud Farahmand; Gavin A. D’Souza; Luke H. Herbertson; and Christopher G. Scully*
+ <hr style="border:2px solid black">
  
 **Abstract** 
 
