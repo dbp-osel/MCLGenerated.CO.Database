@@ -56,7 +56,8 @@ Accordingly:
 •	Flow data were sampled at 1kHz with a low-pass filter at 10 Hz.
 
 •	Central pressure, and peripheral pressure waveforms sampled at 1kHz with a low-pass filter applied with a 55 Hz cut-off frequency.
-Usage Notes
+
+**Usage Notes**
 
 The csv files can be downloaded and used directly to characterize pressure-based cardiac output monitoring systems or algorithms. The database has been used in a publication to determine dynamic attributes of an example benchtop pressure-based CO monitoring system [reference]. While this database enables testing of certain characteristics that are challenging and impractical to address in clinical studies, it is not a replacement for accuracy testing in clinically relevant patient populations with appropriate reference methods. 
 
