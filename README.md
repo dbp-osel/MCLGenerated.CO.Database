@@ -2,7 +2,7 @@
 **Title:**
 
 **Mock Circulatory Loop Generated Database for Dynamic Characterization of Pressure-based Cardiac Output Monitoring Systems** 
-
+ Masoud Farahmand, Christopher Scully
 **Abstract** 
 
 This database contains central (aortic) flow and central (aortic) and peripheral (radial) pressure waveforms recorded from a mock circulation loop (MCL) that is configured to simulate three different hemodynamic states representing a range of flow and pressure conditions. The MCL relationship between central pressure and peripheral pressure was validated against clinical data to ensure that realistic physiologic peripheral pressure waveforms correlated with the cardiac hemodynamics are generated {reference}. This non-clinical database is intended as a tool for assessing the dynamic attributes of pressure-based cardiac output (CO) monitoring systems, including the response time of a system to a change in CO (i.e., CO response time), and the smallest CO and stroke volume variation (SVV) change that a system can reliably detect (i.e., CO resolution, and SVV resolution). The database can be used to characterize the device algorithm or the entire system (i.e., software and hardware). We have provided a full technical description of the database and an example application in {reference}.
