@@ -36,7 +36,7 @@ Overall, nine mock flow loop-generated datasets were collected to quantify three
 
 Accordingly: 
 
-•	CODatabase.zip file contains folders for CO resolution, SVV resolution and CO response time datasets named as COres, SVVres, and COrt, respectively. 
+•	MCLGen.CO.Database.zip file contains folders for CO resolution, SVV resolution and CO response time datasets named as COres, SVVres, and COrt, respectively. 
 
 •	Under each folder corresponding to each hemodynamic state there are three folders named ‘normovolemic’, ‘cardiogenic_shock, and ‘hyperdynamic’.
 
