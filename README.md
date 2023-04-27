@@ -50,7 +50,7 @@ Accordingly:
 
 | Column1  | Column2 |Column3 |Column4 |
 | ------------- | ------------- |------------- |------------- |
-| Time stamp in second | Central flow rate in mL/second  | Central pressure in mmHg  | Peripheral pressure in mmHg  |
+| **Time stamp in second** | **Central flow rate in mL/second**  | **Central pressure in mmHg**  | **Peripheral pressure in mmHg** |
 
 
 •	Flow data were sampled at 1kHz with a low-pass filter at 10 Hz.
