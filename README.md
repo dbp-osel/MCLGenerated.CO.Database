@@ -48,13 +48,9 @@ Accordingly:
 
 •	Each CSV file contains timestamps, and flow and pressure data that are arranged in four columns as follows: 
 
-    - 	Column1: Time stamp in second	
-
-    - 	Column2: Central flow rate in mL/second
-
-    - 	Column3: Central pressure in mmHg	
-
-    - 	Column4: Peripheral pressure in mmHg
+| Column1  | Column2 |Column3 |Column4 |
+| ------------- | ------------- |------------- |------------- |
+| Time stamp in second | Central flow rate in mL/second  | Central pressure in mmHg  | Peripheral pressure in mmHg  |
 
 
 •	Flow data were sampled at 1kHz with a low-pass filter at 10 Hz.
