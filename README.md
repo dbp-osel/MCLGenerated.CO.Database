@@ -51,7 +51,7 @@ Accordingly:
 
 •	Each of the folders contain CSV files corresponding to different steps and hemodynamic states. For example, ’NV_step1_COresolution.csv’ contains normovolemic flow and pressure data in step 1 for CO resolution test.
 
-    - 	An info.txt file exist in each folder that provides information about the folder content. 
+    - 	An "info.txt" file exist in each folder that provides information about the folder content. 
 
 •	Each CSV file contains timestamps, and flow and pressure data that are arranged in four columns as follows: 
 
