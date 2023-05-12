@@ -17,7 +17,7 @@ We developed an MCL that can simulate rapid changes in different parameters, suc
 
 **Methods**
 
-The MCL was used to simulate three hemodynamic states (i.e., hyperdynamic, normovolemic, and cardiogenic shock) based on average hemodynamic values and mimic central-to-peripheral pressure transfer functions reported in the literature. For each state, 
+The MCL was used to simulate three hemodynamic states (i.e., hyperdynamic [HD], normovolemic [NV], and cardiogenic shock [CS]) based on average hemodynamic values and mimic central-to-peripheral pressure transfer functions reported in the literature. For each state, 
 
 •	we simulated stepwise changes in the MCL flow and collected datasets for characterizing CO resolution and SVV resolution of pressure-based CO systems. 
 
