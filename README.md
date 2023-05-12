@@ -45,7 +45,7 @@ Accordingly:
 
 ![image](https://github.com/dbp-osel/MCLGenerated.CO.Database/assets/128830050/b7728aec-631a-4039-a675-f349aa5a57e5)
 
-•	Under each folder corresponding to each hemodynamic state there are three folders named ‘normovolemic’, ‘cardiogenic_shock, and ‘hyperdynamic’.
+•	Under each folder corresponding to each hemodynamic state there are three folders named ‘normovolemic [NV]’, ‘cardiogenic_shock [CS], and ‘hyperdynamic [HD]’.
 
     - 	Also, for the SVV resolution test, there are two folders ‘RR20’ and ‘RR12’ corresponding to two different respiration rates (i.e., 20 times/min and 12 times/min) under each hemodynamic state folder.
 
