@@ -60,6 +60,9 @@ Accordingly:
 
 •	Central pressure, and peripheral pressure waveforms sampled at 1kHz with a low-pass filter applied with a 55 Hz cut-off frequency.
 
+![image](https://github.com/dbp-osel/MCLGenerated.CO.Database/assets/128830050/b7728aec-631a-4039-a675-f349aa5a57e5)
+
+
 **Usage Notes**
 
 The csv files can be downloaded and used directly to characterize pressure-based cardiac output monitoring systems or algorithms. The database has been used in a publication to determine dynamic attributes of an example benchtop pressure-based CO monitoring system [1]. While this database enables testing of certain characteristics that are challenging and impractical to address in clinical studies, it is not a replacement for accuracy testing in clinically relevant patient populations with appropriate reference methods. 
