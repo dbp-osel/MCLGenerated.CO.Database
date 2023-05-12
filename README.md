@@ -27,6 +27,8 @@ Flow and pressure waveforms were simultaneously recorded with high fidelity flow
 
 **Data Description**
 
+
+
 Overall, nine mock flow loop-generated datasets were collected to quantify three dynamic attributes of pressure-based CO monitoring systems.
 
 •	The database contains 9 datasets that correspond to 3 hemodynamic states (i.e., Normovolemic, Cardiogenic shock, and Hyperdynamic states) × 3 types of tests for each state as follows:
@@ -39,7 +41,9 @@ Overall, nine mock flow loop-generated datasets were collected to quantify three
 
 Accordingly: 
 
-•	MCLGen.CO.Database.zip file contains folders for CO resolution, SVV resolution and CO response time datasets named as COres, SVVres, and COrt, respectively. 
+•	MCLGen.CO.Database.zip file contains folders for CO resolution, SVV resolution and CO response time datasets named as COres, SVVres, and COrt, respectively. Please see the following figure:
+
+![image](https://github.com/dbp-osel/MCLGenerated.CO.Database/assets/128830050/b7728aec-631a-4039-a675-f349aa5a57e5)
 
 •	Under each folder corresponding to each hemodynamic state there are three folders named ‘normovolemic’, ‘cardiogenic_shock, and ‘hyperdynamic’.
 
@@ -60,7 +64,7 @@ Accordingly:
 
 •	Central pressure, and peripheral pressure waveforms sampled at 1kHz with a low-pass filter applied with a 55 Hz cut-off frequency.
 
-![image](https://github.com/dbp-osel/MCLGenerated.CO.Database/assets/128830050/b7728aec-631a-4039-a675-f349aa5a57e5)
+
 
 
 **Usage Notes**
