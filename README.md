@@ -78,7 +78,7 @@ Total size: 207.7 MB (unzipped).
 
 **References**
 
-[1] Farahmand, M., Bodwell, E., D'Souza, G. A., Herbertson, L. H., & Scully, C. G. (2023). Mock circulatory loop generated database for dynamic characterization of pressure-based cardiac output monitoring systems. Computers in Biology and Medicine, 160, 106979. https://doi.org/https://doi.org/10.1016/j.compbiomed.2023.106979 
+[1] Farahmand, M., Bodwell, E., D'Souza, G. A., Herbertson, L. H., & Scully, C. G. (2023). Mock circulatory loop generated database for dynamic characterization of pressure-based cardiac output monitoring systems. Computers in Biology and Medicine, 160, 106979. https://doi.org/10.1016/j.compbiomed.2023.106979 
 
 [2] J. A. Alhashemi, M. Cecconi, and C. K. Hofer, "Cardiac output monitoring: an integrative perspective," (in eng), Crit Care, vol. 15, no. 2, p. 214, 2011, doi: 10.1186/cc9996.
 
